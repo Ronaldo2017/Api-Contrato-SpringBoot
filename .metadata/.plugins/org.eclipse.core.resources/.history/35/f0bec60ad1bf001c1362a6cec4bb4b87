@@ -1,0 +1,5 @@
+package com.rc.gestaocontrato.resources;
+
+public class ClienteResource {
+
+}

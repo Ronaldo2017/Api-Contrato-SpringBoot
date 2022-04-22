@@ -1,0 +1,5 @@
+package com.rc.gestaocontrato.repositories;
+
+public class ContratoRepository {
+
+}

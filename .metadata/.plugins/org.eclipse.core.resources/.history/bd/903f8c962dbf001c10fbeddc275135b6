@@ -1,0 +1,5 @@
+package com.rc.gestaocontrato.domain;
+
+public class Cliente {
+
+}

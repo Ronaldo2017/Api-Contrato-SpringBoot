@@ -1,0 +1,5 @@
+package com.rc.gestaocontrato.dto;
+
+public class ClienteDTO {
+
+}

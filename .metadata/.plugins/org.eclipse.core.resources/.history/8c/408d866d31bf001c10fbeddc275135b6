@@ -1,0 +1,5 @@
+package com.rc.gestaocontrato.services;
+
+public class DBService {
+
+}

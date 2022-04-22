@@ -1,0 +1,9 @@
+package com.rc.gestaocontrato.repositories;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.rc.gestaocontrato.domain.Cliente;
+
+public interface ClienteRepository extends JpaRepository<Cliente, Integer>{
+
+}

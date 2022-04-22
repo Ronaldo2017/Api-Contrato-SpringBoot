@@ -1,0 +1,5 @@
+package com.rc.gestaocontrato.config;
+
+public class TestConfig {
+
+}
